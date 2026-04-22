@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Model files (too large for GitHub)
+*.keras
+*.h5
+*.hdf5
+*.pb
+
+# Colab specific
+/content/
+.colab/
+*.ipynb_checkpoints/
+
+# Credentials (IMPORTANT - never upload)
+credentials.json
+*.json
+
+# Logs
+*.log
